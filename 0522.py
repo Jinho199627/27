@@ -58,9 +58,6 @@
 
 
 # 2739번
-
-
-
 A = int(input())
 
 for i in range(1, 10):
