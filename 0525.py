@@ -74,11 +74,6 @@ import sys
 
 # 2577번
 input_list = [int(sys.stdin.readline()) for _ in range(3)]
-#> A = input_list[0] * input_list[1] * input_list[2]
-#>answer = []
-
-#>for i in str(A):
-#>    answer.append(int(i))
 
 answer = [int(i) for i in str(input_list[0] * input_list[1] * input_list[2])]
 
