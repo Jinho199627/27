@@ -1,5 +1,4 @@
 # 2022년 05월 26일 백준 알고리즘 풀이
-from re import A
 import sys
 
 # 3052번
@@ -72,4 +71,5 @@ for i in range(N):
         if average < answer_list[l]:
             A = A + 1
     print("{:.3f}%".format(round((A / len(answer_list))*100,3)))
+    #(배운 것) {:.3f}를 통해 소수 3자리까지 출력해줄 수 있다.
 
