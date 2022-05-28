@@ -29,10 +29,26 @@ import sys
 
 
 
-# 1065번
-N = int(sys.stdin.readline())
-for i in range(1,N+1):
+# 1065번 (푸는 중)
+def number(a):
     check_list = []
-    for l in str(i):
-        check_list.append(int(l))
-    print(check_list)
+    check_set = set()
+    for i in str(a):
+        check_list.append(int(i))
+    for m in range(len(check_list)):
+        try:
+            check_set.add(check_list[m]-check_list[m+1])
+        except:
+            break
+    if len(check_set) <= 1:
+        answer = 1
+    else:
+        answer = 0
+    return answer
+
+N = int(sys.stdin.readline())
+box = 0
+for k in range(1,N+1):
+    if number(k) == 1:
+        box = box + 1
+print(box)
