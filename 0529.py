@@ -78,6 +78,7 @@ def group_word(input_value):
     for i in str(input_value):
         while i*2 in input_value:
             input_value = input_value.replace(i*2,i)
+    #(배운 것) 특정 문자가 여러 번 나오면 i*2로 체크해주고 i*2를 i로 바꿔서 여러 번 나온 걸 한 번으로 고칠 수 있다.
     if len(input_value) == len(set(input_value)):
         b = 1
     else:
