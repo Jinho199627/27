@@ -32,22 +32,15 @@ import math
 
 
 
-# 1193번(푸는 중)
+# 1193번(풀긴 풀었는데 코드 정리 필요)
 N = int(sys.stdin.readline())
 d = 1
 i = 2
 while d < N:
     d = d + i
     i = i + 1
-print("속하는 수")
-print(i-1)
-if (i-1)%2 == 1:
+if (i - 1) % 2 == 1:
     k = d - i + 2
 else:
     k = d
-print("기준 수")
-print(k)
-print("사이 칸 수")
-print(abs(k-N))
-print("답")
 print("{0}/{1}".format(i-1-abs(k-N), 1+abs(k-N)))
