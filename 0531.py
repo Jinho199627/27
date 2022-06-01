@@ -1,4 +1,5 @@
 # 2022년 5월 31일 백준 알고리즘 풀이
+from re import L
 import sys
 import math
 
@@ -34,7 +35,24 @@ def room_number(A, B, C):
 
 
 
-# 2775번
-T = int(sys.stdin.readline())
-input_list = [list(map(int, sys.stdin.readline().strip()))[:1] for _ in range(T*2)]
-print(input_list)
+# 2775번(푸는 중)
+# 2022년 6월 1일 풀이완료
+def apartment(K, N):
+    apartment_list = []
+    add_list = []
+    for i in range(N):
+        add_list.append(i+1)
+    apartment_list.append(add_list)
+    for i in range(1, K+1):
+        add_list = []
+        add_list.append(1)
+        for l in range(1,N):
+            add_list.append(add_list[l-1]+apartment_list[i-1][l])
+        apartment_list.append(add_list)
+    return apartment_list[K][N-1]        
+#(배운 것) 수열을 만들 때 계속 전 단계를 참고해야 한다면 한번 전체 전개도를 만드는 것도 방법이다.
+
+#>T = int(sys.stdin.readline())
+#>input_list = [int(sys.stdin.readline()) for _ in range(T*2)]
+#>for m in range(T):
+#>    print(apartment(input_list[m*2], input_list[m*2+1]))
