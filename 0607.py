@@ -65,3 +65,4 @@ d = Family()
 e = Family()
 print(d.last_name)
 print(e.last_name)
+# 앞서 d와 e를 Family Class로 지정해주었으니 d와 e의 last_name을 불러올 수 있다.
