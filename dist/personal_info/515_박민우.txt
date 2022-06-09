@@ -1,0 +1,6 @@
+name : ¹Ú¹Î¿ì
+age : 33
+e-mail : 6qz66yqz@bhban.com
+division : ln4
+telephone : 010-0433-0704
+sex : male

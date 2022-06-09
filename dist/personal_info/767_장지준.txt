@@ -1,0 +1,6 @@
+name : ภๅม๖มุ
+age : 15
+e-mail : un8h9yqe@bhban.com
+division : dut
+telephone : 010-3715-5837
+sex : male

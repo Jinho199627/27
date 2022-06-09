@@ -1,0 +1,6 @@
+name : Á¤À±Àº
+age : 25
+e-mail : o82sttb8@bhban.com
+division : 97a
+telephone : 010-4225-3942
+sex : female

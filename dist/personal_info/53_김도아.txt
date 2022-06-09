@@ -1,0 +1,6 @@
+name : ±èµµ¾Æ
+age : 24
+e-mail : 2ctsbyhq@bhban.com
+division : lse
+telephone : 010-2724-4727
+sex : female

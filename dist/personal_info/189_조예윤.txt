@@ -1,0 +1,6 @@
+name : Á¶¿¹À±
+age : 13
+e-mail : nzcbnaw7@bhban.com
+division : pfe
+telephone : 010-1913-4819
+sex : male

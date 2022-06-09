@@ -1,0 +1,6 @@
+name : Àå¿¹ÈÄ
+age : 83
+e-mail : me148ahn@bhban.com
+division : 9a5
+telephone : 010-2483-6424
+sex : male

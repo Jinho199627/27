@@ -1,0 +1,6 @@
+name : Á¶Áö¿ì
+age : 23
+e-mail : 71i3xszq@bhban.com
+division : 5gp
+telephone : 010-9823-2998
+sex : female

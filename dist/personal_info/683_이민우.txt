@@ -1,0 +1,6 @@
+name : ÀÌ¹Î¿ì
+age : 29
+e-mail : 9ezg0lyr@bhban.com
+division : 75t
+telephone : 010-5929-7559
+sex : male

@@ -1,0 +1,6 @@
+name : ¹Ú¿¹Àº
+age : 45
+e-mail : rrtn3sph@bhban.com
+division : eb6
+telephone : 010-2545-5425
+sex : male

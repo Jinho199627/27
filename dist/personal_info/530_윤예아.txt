@@ -1,0 +1,6 @@
+name : À±¿¹¾Æ
+age : 96
+e-mail : 45gmu7ic@bhban.com
+division : z1p
+telephone : 010-9996-2399
+sex : female

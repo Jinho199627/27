@@ -1,0 +1,6 @@
+name : ±Ë¿±¡ÿ
+age : 38
+e-mail : u7m01gz6@bhban.com
+division : z92
+telephone : 010-7538-4075
+sex : female

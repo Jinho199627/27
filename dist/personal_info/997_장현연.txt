@@ -1,0 +1,6 @@
+name : ÀåÇö¿¬
+age : 02
+e-mail : k3miw9p1@bhban.com
+division : 0nd
+telephone : 010-7302-9773
+sex : female

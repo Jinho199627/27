@@ -1,0 +1,6 @@
+name : Á¶À±Àº
+age : 32
+e-mail : p9ziabg8@bhban.com
+division : ttp
+telephone : 010-3032-8330
+sex : male

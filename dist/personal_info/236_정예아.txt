@@ -1,0 +1,6 @@
+name : Á¤¿¹¾Æ
+age : 32
+e-mail : tdyez25d@bhban.com
+division : ezu
+telephone : 010-7832-2978
+sex : male

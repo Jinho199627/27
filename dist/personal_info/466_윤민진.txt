@@ -1,0 +1,6 @@
+name : À±¹ÎÁø
+age : 78
+e-mail : ibsge5fi@bhban.com
+division : bmh
+telephone : 010-1678-6016
+sex : male

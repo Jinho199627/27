@@ -1,0 +1,6 @@
+name : ¹ÚÇöÈÄ
+age : 37
+e-mail : yirdbkle@bhban.com
+division : axe
+telephone : 010-3837-0538
+sex : female

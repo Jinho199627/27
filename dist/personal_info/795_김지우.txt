@@ -1,0 +1,6 @@
+name : ±èÁö¿ì
+age : 12
+e-mail : xzoqkka8@bhban.com
+division : 4wm
+telephone : 010-2912-8829
+sex : female

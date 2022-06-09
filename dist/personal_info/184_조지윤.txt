@@ -1,0 +1,6 @@
+name : Á¶ÁöÀ±
+age : 25
+e-mail : rv2n51my@bhban.com
+division : m5z
+telephone : 010-6925-4769
+sex : female

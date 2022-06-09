@@ -1,0 +1,6 @@
+name : ¿Ã¿±øÏ
+age : 17
+e-mail : ocvruzis@bhban.com
+division : ay9
+telephone : 010-9817-5598
+sex : female

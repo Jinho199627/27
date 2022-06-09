@@ -1,0 +1,6 @@
+name : ¹ÚÁö¿ì
+age : 12
+e-mail : kmg1y9bt@bhban.com
+division : 81s
+telephone : 010-1112-0711
+sex : male

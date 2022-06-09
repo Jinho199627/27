@@ -1,0 +1,6 @@
+name : ±èµµÀº
+age : 72
+e-mail : huswsa4n@bhban.com
+division : bnn
+telephone : 010-4872-4048
+sex : male

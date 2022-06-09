@@ -1,0 +1,6 @@
+name : Á¶ÇöÈ£
+age : 15
+e-mail : 3ftaelo6@bhban.com
+division : kug
+telephone : 010-1115-8111
+sex : male

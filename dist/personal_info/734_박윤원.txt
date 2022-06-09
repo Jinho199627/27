@@ -1,0 +1,6 @@
+name : ¹ÚÀ±¿ø
+age : 56
+e-mail : slui7h73@bhban.com
+division : f3c
+telephone : 010-6456-0264
+sex : female

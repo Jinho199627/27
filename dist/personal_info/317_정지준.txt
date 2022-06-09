@@ -1,0 +1,6 @@
+name : СЄСіСи
+age : 67
+e-mail : gnkec1aw@bhban.com
+division : a9x
+telephone : 010-0567-6105
+sex : male

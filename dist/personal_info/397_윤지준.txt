@@ -1,0 +1,6 @@
+name : À±ÁöÁØ
+age : 17
+e-mail : inyxx7ru@bhban.com
+division : egf
+telephone : 010-3517-9135
+sex : male

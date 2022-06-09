@@ -1,0 +1,6 @@
+name : ¹ÚÀ±Àº
+age : 44
+e-mail : rrgw90an@bhban.com
+division : dkw
+telephone : 010-7744-3377
+sex : male

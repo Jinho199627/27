@@ -1,0 +1,6 @@
+name : ÀåÁöÀº
+age : 29
+e-mail : 3ef2qlcn@bhban.com
+division : 2nk
+telephone : 010-7229-7372
+sex : female

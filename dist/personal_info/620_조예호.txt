@@ -1,0 +1,6 @@
+name : Á¶¿¹È£
+age : 17
+e-mail : dkyy774u@bhban.com
+division : 41g
+telephone : 010-7617-1276
+sex : female

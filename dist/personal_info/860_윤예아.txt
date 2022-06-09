@@ -1,0 +1,6 @@
+name : À±¿¹¾Æ
+age : 32
+e-mail : wh9g66pg@bhban.com
+division : 3ev
+telephone : 010-0932-6209
+sex : male

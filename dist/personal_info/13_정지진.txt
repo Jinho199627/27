@@ -1,0 +1,6 @@
+name : Á¤ÁöÁø
+age : 03
+e-mail : thuxydtz@bhban.com
+division : ex7
+telephone : 010-3903-0339
+sex : male

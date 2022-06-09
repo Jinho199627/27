@@ -1,0 +1,6 @@
+name : ÀÌÇö¿ì
+age : 08
+e-mail : t4mgd44w@bhban.com
+division : ixg
+telephone : 010-4608-2446
+sex : female

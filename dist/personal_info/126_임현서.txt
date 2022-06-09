@@ -1,0 +1,6 @@
+name : ÀÓÇö¼­
+age : 12
+e-mail : dd878wf8@bhban.com
+division : 294
+telephone : 010-0812-1908
+sex : male

@@ -1,0 +1,6 @@
+name : ¹ÚÁö¾Æ
+age : 22
+e-mail : pydztlfk@bhban.com
+division : ndi
+telephone : 010-6322-8763
+sex : female

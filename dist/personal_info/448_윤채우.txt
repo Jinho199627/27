@@ -1,0 +1,6 @@
+name : À±Ã¤¿ì
+age : 93
+e-mail : fmpd62cy@bhban.com
+division : xtf
+telephone : 010-2193-4121
+sex : male

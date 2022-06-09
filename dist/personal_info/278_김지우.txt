@@ -1,0 +1,6 @@
+name : ±èÁö¿ì
+age : 15
+e-mail : z3k8vl9l@bhban.com
+division : pa2
+telephone : 010-6715-7167
+sex : male

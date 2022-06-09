@@ -1,0 +1,6 @@
+name : ÀåÁö¿ì
+age : 75
+e-mail : 4zq2z95y@bhban.com
+division : rpg
+telephone : 010-0675-2406
+sex : female

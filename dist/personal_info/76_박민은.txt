@@ -1,0 +1,6 @@
+name : ¹Ú¹ÎÀº
+age : 48
+e-mail : be0ynl00@bhban.com
+division : ezi
+telephone : 010-2148-6921
+sex : male

@@ -1,0 +1,6 @@
+name : ±èÀ±¿ø
+age : 46
+e-mail : o1irn6t8@bhban.com
+division : ud1
+telephone : 010-5646-1156
+sex : female

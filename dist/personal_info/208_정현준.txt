@@ -1,0 +1,6 @@
+name : СЄЧіСи
+age : 34
+e-mail : e00z4ioh@bhban.com
+division : z87
+telephone : 010-8634-9986
+sex : male

@@ -1,0 +1,6 @@
+name : Á¶Çö¿¬
+age : 07
+e-mail : ge0gszgc@bhban.com
+division : i4g
+telephone : 010-1907-2319
+sex : male

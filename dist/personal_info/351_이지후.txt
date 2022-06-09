@@ -1,0 +1,6 @@
+name : ÀÌÁöÈÄ
+age : 27
+e-mail : rtd6mtwq@bhban.com
+division : 8um
+telephone : 010-4727-4647
+sex : female

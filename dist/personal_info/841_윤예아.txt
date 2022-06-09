@@ -1,0 +1,6 @@
+name : À±¿¹¾Æ
+age : 27
+e-mail : i5idzuxl@bhban.com
+division : acc
+telephone : 010-1527-4015
+sex : female

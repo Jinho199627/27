@@ -1,0 +1,6 @@
+name : ¹Ú¹ÎÈÄ
+age : 48
+e-mail : mlyo0ytc@bhban.com
+division : le8
+telephone : 010-4648-9546
+sex : male

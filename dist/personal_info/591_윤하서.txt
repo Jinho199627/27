@@ -1,0 +1,6 @@
+name : À±ÇÏ¼­
+age : 16
+e-mail : n7rhp0b0@bhban.com
+division : phm
+telephone : 010-8416-8284
+sex : female

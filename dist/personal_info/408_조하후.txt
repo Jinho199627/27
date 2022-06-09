@@ -1,0 +1,6 @@
+name : а╤гохд
+age : 22
+e-mail : zlk24yfe@bhban.com
+division : au1
+telephone : 010-2322-7023
+sex : male

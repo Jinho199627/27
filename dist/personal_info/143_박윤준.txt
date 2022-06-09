@@ -1,0 +1,6 @@
+name : ¹ÚÀ±ÁØ
+age : 13
+e-mail : lx12lfwo@bhban.com
+division : kln
+telephone : 010-0313-3703
+sex : male

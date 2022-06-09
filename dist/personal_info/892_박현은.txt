@@ -1,0 +1,6 @@
+name : ¹ÚÇöÀº
+age : 14
+e-mail : nwr6qgaz@bhban.com
+division : cc2
+telephone : 010-2014-1920
+sex : male

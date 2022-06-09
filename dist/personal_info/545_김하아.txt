@@ -1,0 +1,6 @@
+name : ±èÇÏ¾Æ
+age : 17
+e-mail : sbs3yqnr@bhban.com
+division : kqr
+telephone : 010-9617-3796
+sex : male

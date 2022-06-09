@@ -1,0 +1,6 @@
+name : À±Çö¿ì
+age : 42
+e-mail : hkicl2zm@bhban.com
+division : 2mz
+telephone : 010-1142-8011
+sex : female

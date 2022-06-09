@@ -1,0 +1,6 @@
+name : ÃÖÇö¿¬
+age : 42
+e-mail : vgfdzos2@bhban.com
+division : 08h
+telephone : 010-6142-6761
+sex : female

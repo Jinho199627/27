@@ -1,0 +1,6 @@
+name : ¹ÚµµÁØ
+age : 94
+e-mail : ets9ritr@bhban.com
+division : lkd
+telephone : 010-8794-6787
+sex : male

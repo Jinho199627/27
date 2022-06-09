@@ -1,0 +1,6 @@
+name : À±µµ¿ø
+age : 22
+e-mail : z2et0s4c@bhban.com
+division : 1ez
+telephone : 010-2222-4022
+sex : female

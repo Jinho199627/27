@@ -1,0 +1,6 @@
+name : À±¿¹¿ì
+age : 16
+e-mail : 627886ey@bhban.com
+division : 594
+telephone : 010-1716-3317
+sex : male

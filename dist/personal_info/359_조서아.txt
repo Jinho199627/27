@@ -1,0 +1,6 @@
+name : Á¶¼­¾Æ
+age : 11
+e-mail : 3zz8ok79@bhban.com
+division : m73
+telephone : 010-4511-5445
+sex : male

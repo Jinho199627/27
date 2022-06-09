@@ -1,0 +1,6 @@
+name : ±èµµ¼­
+age : 17
+e-mail : 5zznecza@bhban.com
+division : ime
+telephone : 010-4017-4740
+sex : male

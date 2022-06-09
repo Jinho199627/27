@@ -1,0 +1,6 @@
+name : ÀÌÇöÀº
+age : 07
+e-mail : vs05yw06@bhban.com
+division : avl
+telephone : 010-2207-3722
+sex : female

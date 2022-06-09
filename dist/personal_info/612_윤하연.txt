@@ -1,0 +1,6 @@
+name : À±ÇÏ¿¬
+age : 38
+e-mail : mbsoh3gn@bhban.com
+division : zpi
+telephone : 010-4781-9047
+sex : male

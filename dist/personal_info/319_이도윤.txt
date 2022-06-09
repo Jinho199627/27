@@ -1,0 +1,6 @@
+name : ¿Ãµµ¿±
+age : 22
+e-mail : nk51r5vr@bhban.com
+division : h09
+telephone : 010-5622-1256
+sex : female

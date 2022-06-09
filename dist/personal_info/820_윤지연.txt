@@ -1,0 +1,6 @@
+name : À±Áö¿¬
+age : 18
+e-mail : lmdycp70@bhban.com
+division : zyo
+telephone : 010-2218-1422
+sex : male

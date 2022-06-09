@@ -1,0 +1,6 @@
+name : Á¤¿¹¾Æ
+age : 15
+e-mail : osbpgfeb@bhban.com
+division : 2yx
+telephone : 010-7615-8676
+sex : male
