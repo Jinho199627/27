@@ -1,0 +1,6 @@
+name : ±è¹Î¼­
+age : 22
+e-mail : w1zeo6lt@bhban.com
+division : bgz
+telephone : 010-8422-5584
+sex : female

@@ -1,0 +1,6 @@
+name : ÀåÁö¿ì
+age : 53
+e-mail : lec14b6v@bhban.com
+division : 3bb
+telephone : 010-1753-8417
+sex : male

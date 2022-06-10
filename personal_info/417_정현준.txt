@@ -1,0 +1,6 @@
+name : СЄЧіСи
+age : 12
+e-mail : 0ozf2wta@bhban.com
+division : cl0
+telephone : 010-3012-1030
+sex : male

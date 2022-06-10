@@ -1,0 +1,6 @@
+name : ฑ่ม๖มุ
+age : 48
+e-mail : wu7tr541@bhban.com
+division : qms
+telephone : 010-4248-9042
+sex : male

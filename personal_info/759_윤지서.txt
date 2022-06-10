@@ -1,0 +1,6 @@
+name : À±Áö¼­
+age : 24
+e-mail : ua7xmqk2@bhban.com
+division : ggr
+telephone : 010-3924-5039
+sex : male

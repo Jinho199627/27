@@ -1,0 +1,6 @@
+name : ÀÌ¿¹¿¬
+age : 82
+e-mail : go7lsqhc@bhban.com
+division : ntk
+telephone : 010-5482-1854
+sex : female

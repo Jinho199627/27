@@ -1,0 +1,6 @@
+name : юсажаь
+age : 28
+e-mail : 9vya805g@bhban.com
+division : z73
+telephone : 010-9728-2997
+sex : female

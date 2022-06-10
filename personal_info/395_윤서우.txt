@@ -1,0 +1,6 @@
+name : À±¼­¿ì
+age : 68
+e-mail : rux3exxb@bhban.com
+division : rsu
+telephone : 010-3568-8935
+sex : male

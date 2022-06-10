@@ -1,0 +1,6 @@
+name : ÀÌÁöÁø
+age : 24
+e-mail : mye8bkzs@bhban.com
+division : w6s
+telephone : 010-9224-7392
+sex : male

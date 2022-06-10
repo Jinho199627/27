@@ -1,0 +1,6 @@
+name : À±Ã¤¿ø
+age : 06
+e-mail : w3eozog6@bhban.com
+division : chl
+telephone : 010-2906-2329
+sex : male

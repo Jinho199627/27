@@ -1,0 +1,6 @@
+name : ±Ë¡ˆ¿±
+age : 17
+e-mail : myruognt@bhban.com
+division : zvd
+telephone : 010-2917-4029
+sex : male

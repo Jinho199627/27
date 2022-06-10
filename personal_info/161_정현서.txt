@@ -1,0 +1,6 @@
+name : Á¤Çö¼­
+age : 17
+e-mail : 7mizroll@bhban.com
+division : qk2
+telephone : 010-9817-5598
+sex : male

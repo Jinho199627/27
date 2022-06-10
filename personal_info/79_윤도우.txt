@@ -1,0 +1,6 @@
+name : À±µµ¿ì
+age : 07
+e-mail : ii1rsd59@bhban.com
+division : fl9
+telephone : 010-2207-3722
+sex : male

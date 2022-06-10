@@ -1,0 +1,6 @@
+name : ±èÁö¾Æ
+age : 02
+e-mail : 1hlycldr@bhban.com
+division : 9y8
+telephone : 010-3402-7034
+sex : male

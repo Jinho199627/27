@@ -1,0 +1,6 @@
+name : ÃÖÁöÈÄ
+age : 23
+e-mail : vmbwaait@bhban.com
+division : v0z
+telephone : 010-7323-2373
+sex : male

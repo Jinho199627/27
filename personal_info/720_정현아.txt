@@ -1,0 +1,6 @@
+name : Á¤Çö¾Æ
+age : 48
+e-mail : kmn93kn0@bhban.com
+division : 0ta
+telephone : 010-4948-1249
+sex : female

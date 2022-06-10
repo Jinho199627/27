@@ -1,0 +1,6 @@
+name : ю╠аж©Л
+age : 17
+e-mail : m3elddac@bhban.com
+division : gak
+telephone : 010-2817-1828
+sex : male

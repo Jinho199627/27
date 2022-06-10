@@ -45,6 +45,8 @@ def number(a):
     else:
         answer = 0
     return answer
+#(배운 것) try except 구문은 매우 유용하다. 오류 처리를 해주니 구문을 조금 더 자유롭게 짤 수 있다.
+
 
 N = int(sys.stdin.readline())
 box = 0
@@ -52,3 +54,4 @@ for k in range(1,N+1):
     if number(k) == 1:
         box = box + 1
 print(box)
+#(배운 것) 함수를 만들어두면 향후 코드 구축이 쉽다.

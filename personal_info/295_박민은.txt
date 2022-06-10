@@ -1,0 +1,6 @@
+name : ¹Ú¹ÎÀº
+age : 22
+e-mail : ihk7llgh@bhban.com
+division : scl
+telephone : 010-6283-8862
+sex : male

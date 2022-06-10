@@ -1,0 +1,6 @@
+name : Á¶Ã¤Áø
+age : 19
+e-mail : o45b77w2@bhban.com
+division : mbp
+telephone : 010-5519-1655
+sex : male

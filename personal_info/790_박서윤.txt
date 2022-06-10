@@ -1,0 +1,6 @@
+name : ¹Ú¼­À±
+age : 27
+e-mail : aphai1lu@bhban.com
+division : n8b
+telephone : 010-3027-8430
+sex : female

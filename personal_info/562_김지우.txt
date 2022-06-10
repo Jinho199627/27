@@ -1,0 +1,6 @@
+name : ±èÁö¿ì
+age : 16
+e-mail : 9l2bumo9@bhban.com
+division : 3w4
+telephone : 010-4916-8549
+sex : male

@@ -1,0 +1,6 @@
+name : а╤ажаЬ
+age : 16
+e-mail : e935yubr@bhban.com
+division : lyu
+telephone : 010-1416-7014
+sex : male

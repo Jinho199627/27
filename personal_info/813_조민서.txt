@@ -1,0 +1,6 @@
+name : Á¶¹Î¼­
+age : 14
+e-mail : 0s1xt9sq@bhban.com
+division : z9k
+telephone : 010-2414-0724
+sex : female

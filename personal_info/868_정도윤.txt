@@ -1,0 +1,6 @@
+name : Á¤µµÀ±
+age : 16
+e-mail : ivikecys@bhban.com
+division : iq6
+telephone : 010-0716-7007
+sex : male

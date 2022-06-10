@@ -1,0 +1,6 @@
+name : ¹ÚÇö¿ø
+age : 99
+e-mail : glxlkasl@bhban.com
+division : 4cx
+telephone : 010-2099-4120
+sex : female

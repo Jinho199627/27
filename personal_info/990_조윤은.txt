@@ -1,0 +1,6 @@
+name : Á¶À±Àº
+age : 25
+e-mail : uw6dpb7e@bhban.com
+division : axh
+telephone : 010-7525-8975
+sex : male

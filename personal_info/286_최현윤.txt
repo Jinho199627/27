@@ -1,0 +1,6 @@
+name : ÃÖÇöÀ±
+age : 48
+e-mail : y9x5wo1z@bhban.com
+division : seq
+telephone : 010-6548-7865
+sex : male

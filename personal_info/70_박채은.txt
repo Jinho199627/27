@@ -1,0 +1,6 @@
+name : ¹ÚÃ¤Àº
+age : 31
+e-mail : hc1gg1y5@bhban.com
+division : vsv
+telephone : 010-3231-3632
+sex : male

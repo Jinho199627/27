@@ -1,0 +1,6 @@
+name : ¹ÚÀ±¾Æ
+age : 55
+e-mail : u322u101@bhban.com
+division : oii
+telephone : 010-9755-3197
+sex : male

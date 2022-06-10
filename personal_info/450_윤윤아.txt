@@ -1,0 +1,6 @@
+name : À±À±¾Æ
+age : 14
+e-mail : 2a3dah2z@bhban.com
+division : 612
+telephone : 010-3214-7432
+sex : male

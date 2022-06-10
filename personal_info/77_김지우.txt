@@ -1,0 +1,6 @@
+name : ±èÁö¿ì
+age : 16
+e-mail : rath5mzr@bhban.com
+division : ozr
+telephone : 010-2116-7021
+sex : female

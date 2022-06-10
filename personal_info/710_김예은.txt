@@ -1,0 +1,6 @@
+name : ±è¿¹Àº
+age : 18
+e-mail : dskr34iz@bhban.com
+division : v0z
+telephone : 010-5218-0252
+sex : female

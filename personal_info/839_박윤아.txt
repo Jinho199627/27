@@ -1,0 +1,6 @@
+name : ¹ÚÀ±¾Æ
+age : 55
+e-mail : omqyx05k@bhban.com
+division : 6e2
+telephone : 010-1655-3516
+sex : male

@@ -1,0 +1,6 @@
+name : À±Çö¼­
+age : 01
+e-mail : 1a37rt2z@bhban.com
+division : mp8
+telephone : 010-2901-1429
+sex : male

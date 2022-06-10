@@ -1,0 +1,6 @@
+name : À±¹ÎÈÄ
+age : 23
+e-mail : ft0q2r4t@bhban.com
+division : r3q
+telephone : 010-6323-0763
+sex : female

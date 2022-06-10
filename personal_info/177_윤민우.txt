@@ -1,0 +1,6 @@
+name : À±¹Î¿ì
+age : 04
+e-mail : nohosu2q@bhban.com
+division : 2qy
+telephone : 010-9404-7094
+sex : male

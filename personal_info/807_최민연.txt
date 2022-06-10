@@ -1,0 +1,6 @@
+name : ÃÖ¹Î¿¬
+age : 88
+e-mail : xnmahvkf@bhban.com
+division : hw9
+telephone : 010-2588-0025
+sex : female

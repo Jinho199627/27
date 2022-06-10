@@ -1,0 +1,6 @@
+name : ÀÌÇö¿¬
+age : 05
+e-mail : 42yllapz@bhban.com
+division : xo0
+telephone : 010-4105-4341
+sex : male

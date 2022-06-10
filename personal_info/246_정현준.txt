@@ -1,0 +1,6 @@
+name : СЄЧіСи
+age : 68
+e-mail : 27tlcyi3@bhban.com
+division : 4tx
+telephone : 010-7568-3975
+sex : male

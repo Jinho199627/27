@@ -1,0 +1,6 @@
+name : ±èÁö¿ø
+age : 22
+e-mail : z6309ugq@bhban.com
+division : p0z
+telephone : 010-3322-2433
+sex : female

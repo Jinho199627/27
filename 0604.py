@@ -22,10 +22,14 @@ def recursive(m):
 
 
 
-# 2447번
+# 2447번(이거 잘 모르겠다.)
 def star(n):
-    if 
-    print(answer_list)
+    if 3 == 0:
+        answer_list[0] = 
+    
+    return b
+
+
 
 n = int(sys.stdin.readline())
 answer_list = list([] for i in range(n))

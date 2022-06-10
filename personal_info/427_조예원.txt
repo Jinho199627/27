@@ -1,0 +1,6 @@
+name : Á¶¿¹¿ø
+age : 75
+e-mail : x6ow3w30@bhban.com
+division : iwh
+telephone : 010-0275-7202
+sex : male

@@ -1,0 +1,6 @@
+name : ¹Ú¼­Àº
+age : 75
+e-mail : go4k6r6z@bhban.com
+division : uzu
+telephone : 010-9575-6495
+sex : male

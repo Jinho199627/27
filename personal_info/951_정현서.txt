@@ -1,0 +1,6 @@
+name : Á¤Çö¼­
+age : 28
+e-mail : p9zag189@bhban.com
+division : qbx
+telephone : 010-8528-5185
+sex : female

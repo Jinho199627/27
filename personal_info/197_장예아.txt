@@ -1,0 +1,6 @@
+name : Àå¿¹¾Æ
+age : 06
+e-mail : sk7v6a61@bhban.com
+division : s50
+telephone : 010-8906-8989
+sex : female

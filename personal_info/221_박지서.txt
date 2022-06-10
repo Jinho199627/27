@@ -1,0 +1,6 @@
+name : ¹ÚÁö¼­
+age : 68
+e-mail : 31igem6v@bhban.com
+division : hh8
+telephone : 010-8268-1482
+sex : female

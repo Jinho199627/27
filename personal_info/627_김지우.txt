@@ -1,0 +1,6 @@
+name : ±èÁö¿ì
+age : 12
+e-mail : 5avhp31a@bhban.com
+division : e5y
+telephone : 010-7412-1974
+sex : male

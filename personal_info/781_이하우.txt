@@ -1,0 +1,6 @@
+name : юлго©Л
+age : 25
+e-mail : oc9zyoy9@bhban.com
+division : 98h
+telephone : 010-5325-0753
+sex : male

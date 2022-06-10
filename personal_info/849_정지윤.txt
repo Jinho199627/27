@@ -1,0 +1,6 @@
+name : Á¤ÁöÀ±
+age : 22
+e-mail : e96u6zl1@bhban.com
+division : 5oy
+telephone : 010-1122-1511
+sex : female

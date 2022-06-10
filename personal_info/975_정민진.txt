@@ -1,0 +1,6 @@
+name : Á¤¹ÎÁø
+age : 12
+e-mail : lyp53683@bhban.com
+division : qr7
+telephone : 010-7912-7579
+sex : female

@@ -1,0 +1,6 @@
+name : Á¶¼­¿¬
+age : 02
+e-mail : 0ogk8o9n@bhban.com
+division : h5y
+telephone : 010-6902-3869
+sex : female

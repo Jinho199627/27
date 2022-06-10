@@ -1,0 +1,6 @@
+name : Á¶Ã¤Àº
+age : 45
+e-mail : 1gz6gv3h@bhban.com
+division : c2x
+telephone : 010-0245-8802
+sex : male

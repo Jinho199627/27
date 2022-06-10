@@ -1,0 +1,6 @@
+name : À±¿¹¿¬
+age : 12
+e-mail : kxhipirl@bhban.com
+division : xg6
+telephone : 010-9512-4095
+sex : male

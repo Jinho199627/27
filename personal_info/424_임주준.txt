@@ -1,0 +1,6 @@
+name : юсажаь
+age : 18
+e-mail : ianbqhnk@bhban.com
+division : nds
+telephone : 010-2818-1728
+sex : female

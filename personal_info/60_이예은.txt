@@ -1,0 +1,6 @@
+name : ÀÌ¿¹Àº
+age : 57
+e-mail : 4iowb3ra@bhban.com
+division : g5q
+telephone : 010-3257-3532
+sex : male

@@ -1,0 +1,6 @@
+name : ¿”¿±ø¨
+age : 25
+e-mail : bgtqgrty@bhban.com
+division : 101
+telephone : 010-8225-8982
+sex : female

@@ -1,0 +1,6 @@
+name : Á¶Çö¿ì
+age : 26
+e-mail : tqy3vzlb@bhban.com
+division : 4cb
+telephone : 010-4926-2249
+sex : female
